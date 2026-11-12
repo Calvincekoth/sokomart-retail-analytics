@@ -1,0 +1,301 @@
+product_id,product_name,category,brand,unit_price,cost_price,stock_quantity,created_at,product_status
+1,"Hisense Smart TV 65""",Electronics,Hisense,101699.00,88274.73,23,2024-01-27 15:02:00,active
+2,Samsung Galaxy Tab Tablet 64GB,Electronics,Samsung,28549.00,22916.28,341,2024-12-02 03:25:00,active
+3,Oraimo Power Bank 20000mAh,Electronics,Oraimo,3869.00,3224.81,0,2024-05-12 22:27:00,out_of_stock
+4,JBL Wireless Earbuds Pro,Electronics,JBL,8850.00,7977.39,339,2024-03-18 12:45:00,active
+5,Oraimo Bluetooth Speaker Go,Electronics,Oraimo,19849.00,16726.75,207,2024-04-17 04:04:00,active
+6,Oraimo Bluetooth Speaker Mini,Electronics,Oraimo,3060.00,2418.62,258,2024-10-21 21:04:00,active
+7,Infinix Hot Smartphone 128GB,Electronics,Infinix,33399.00,28162.04,170,2024-10-04 18:52:00,active
+8,Tenda WiFi Router Mesh,Electronics,Tenda,13350.00,11363.52,41,2024-11-18 17:57:00,active
+9,Xiaomi Pad Tablet 64GB,Electronics,Xiaomi,17849.00,14261.35,217,2024-06-25 14:20:00,active
+10,HP Laptop Core i3 8GB,Electronics,HP,48799.00,44143.58,214,2024-04-02 04:47:00,active
+11,Tecno Camon Smartphone 256GB,Electronics,Tecno,55649.00,46511.43,234,2024-04-06 11:49:00,active
+12,Anker Power Bank 30000mAh,Electronics,Anker,5199.00,4464.38,356,2024-09-17 11:03:00,active
+13,Samsung Galaxy Smartphone 256GB,Electronics,Samsung,59300.00,47872.89,310,2024-11-03 06:18:00,active
+14,Anker Power Bank 10000mAh,Electronics,Anker,2579.00,2110.14,436,2024-01-29 12:15:00,active
+15,Lenovo Laptop Core i5 16GB,Electronics,Lenovo,102850.00,88574.42,523,2024-01-07 03:20:00,active
+16,Oraimo Power Bank 10000mAh,Electronics,Oraimo,2209.00,1738.26,369,2024-08-25 03:35:00,active
+17,Samsung Smartwatch Sport,Electronics,Samsung,28200.00,24689.10,525,2024-02-28 00:46:00,active
+18,JBL Wireless Earbuds Lite,Electronics,JBL,7700.00,6840.68,535,2024-04-13 21:23:00,active
+19,Amazfit Smartwatch Classic,Electronics,Amazfit,14049.00,11847.52,522,2024-04-30 05:39:00,active
+20,Lenovo Tab Tablet 64GB,Electronics,Lenovo,35349.00,28399.39,229,2024-08-10 19:03:00,active
+21,Tecno Spark Smartphone 64GB,Electronics,Tecno,26550.00,22941.86,420,2024-12-25 02:25:00,active
+22,Samsung Wireless Earbuds Lite,Electronics,Samsung,3590.00,2886.00,462,2024-06-30 12:46:00,active
+23,Sony Bluetooth Speaker Go,Electronics,Sony,14100.00,12681.54,171,2024-09-08 23:42:00,active
+24,HP Laptop Core i5 16GB,Electronics,HP,100749.00,78826.02,469,2024-02-16 01:05:00,active
+25,TP-Link WiFi Router Dual Band,Electronics,TP-Link,6399.00,5757.18,0,2024-06-03 19:02:00,out_of_stock
+26,Samsung Smartwatch Classic,Electronics,Samsung,4940.00,4449.95,550,2024-07-14 15:55:00,active
+27,Xiaomi Pad Tablet 128GB,Electronics,Xiaomi,53249.00,42050.74,44,2024-11-09 15:29:00,active
+28,Xiaomi Power Bank 10000mAh,Electronics,Xiaomi,2749.00,2391.90,122,2024-06-17 14:36:00,active
+29,"LG Smart TV 32""",Electronics,LG,27199.00,22210.70,242,2024-08-09 10:31:00,active
+30,Anker Wireless Earbuds Pro,Electronics,Anker,11699.00,10075.18,561,2024-01-20 03:22:00,active
+31,Oraimo Smartwatch Classic,Electronics,Oraimo,7799.00,6883.40,170,2024-08-24 15:40:00,active
+32,"LG Smart TV 65""",Electronics,LG,102749.00,85086.45,594,2024-12-04 04:17:00,active
+33,Tecno Spark Smartphone 256GB,Electronics,Tecno,62849.00,56582.95,143,2024-03-17 06:53:00,active
+34,"Vitron Smart TV 32""",Electronics,Vitron,19449.00,15919.01,263,2026-10-26 08:56:00,active
+35,Huawei WiFi Router Dual Band,Electronics,Huawei,6200.00,5378.50,170,2024-06-14 00:10:00,active
+36,Xiaomi Smartwatch Classic,Electronics,Xiaomi,10800.00,9551.52,149,2024-12-01 23:21:00,active
+37,Tecno Camon Smartphone 64GB,Electronics,Tecno,11299.00,10050.46,219,2024-07-17 05:19:00,active
+38,Oppo Reno Smartphone 128GB,Electronics,Oppo,37600.00,30937.28,15,2024-06-17 09:42:00,active
+39,"Vitron Smart TV 43""",Electronics,Vitron,57949.00,50235.99,199,2024-09-27 14:21:00,active
+40,Lenovo Tab Tablet 128GB,Electronics,Lenovo,56300.00,45687.45,566,2024-05-28 14:40:00,active
+41,Oppo Reno Smartphone 64GB,Electronics,Oppo,22450.00,17962.25,0,2024-06-18 06:50:00,out_of_stock
+42,TP-Link WiFi Router Mesh,Electronics,TP-Link,13349.00,10687.21,281,2024-05-07 23:46:00,active
+43,Oppo Reno Smartphone 256GB,Electronics,Oppo,60549.00,48269.66,430,2024-01-25 08:43:00,active
+44,Huawei WiFi Router Mesh,Electronics,Huawei,10699.00,8507.84,419,2024-01-01 03:58:00,active
+45,"Samsung Smart TV 43""",Electronics,Samsung,53799.00,42447.41,523,2024-02-02 06:32:00,active
+46,"Samsung Smart TV 65""",Electronics,Samsung,113700.00,93529.62,294,2024-03-09 14:29:00,active
+47,"LG Smart TV 43""",Electronics,LG,53000.00,44345.10,214,2024-08-31 16:13:00,active
+48,Anker Wireless Earbuds Lite,Electronics,Anker,3289.00,2596.34,21,2024-03-15 06:39:00,active
+49,Asus Laptop Core i5 8GB,Electronics,Asus,81200.00,72901.36,256,2024-11-26 09:40:00,active
+50,Xiaomi Power Bank 20000mAh,Electronics,Xiaomi,4389.00,3488.82,285,2024-10-19 12:30:00,active
+51,Tecno Spark Smartphone 128GB,Electronics,Tecno,33649.00,30085.57,78,2024-06-19 04:56:00,active
+52,Samsung Wireless Earbuds Pro,Electronics,Samsung,10700.00,9056.48,328,2024-12-07 18:37:00,active
+53,Tenda WiFi Router Dual Band,Electronics,Tenda,4959.00,4349.54,222,2024-03-12 22:54:00,active
+54,Dell Laptop Core i3 8GB,Electronics,Dell,50649.00,40392.58,104,2024-01-01 02:53:00,active
+55,Samsung Galaxy Smartphone 128GB,Electronics,Samsung,44300.00,34740.06,350,2024-01-01 02:20:00,active
+56,Amazfit Smartwatch Sport,Electronics,Amazfit,27250.00,24688.50,22,2024-01-01 19:22:00,active
+57,Samsung Galaxy Tab Tablet 128GB,Electronics,Samsung,61450.00,53547.53,451,2024-01-20 22:05:00,active
+58,JBL Bluetooth Speaker Go,Electronics,JBL,20800.00,17105.92,348,2024-10-05 01:48:00,active
+59,Anker Power Bank 20000mAh,Electronics,Anker,4700.00,4153.39,1,2024-11-12 18:12:00,active
+60,Samsung Galaxy Smartphone 64GB,Electronics,Samsung,28150.00,22066.79,192,2024-04-18 02:29:00,active
+61,Oraimo Wireless Earbuds Lite,Electronics,Oraimo,5699.00,4554.07,598,2024-03-30 23:46:00,active
+62,"TCL Smart TV 43""",Electronics,TCL,44350.00,37191.91,594,2024-04-10 00:42:00,active
+63,Asus Laptop Core i3 8GB,Electronics,Asus,62849.00,57619.96,200,2024-01-05 03:05:00,active
+64,HP Laptop Core i5 8GB,Electronics,HP,89700.00,72988.89,342,2024-04-07 03:48:00,active
+65,Sony Bluetooth Speaker Max,Electronics,Sony,25750.00,20551.08,429,2024-02-21 21:44:00,active
+66,Xiaomi Smartwatch Sport,Electronics,Xiaomi,34149.00,31102.91,344,2024-06-27 22:14:00,active
+67,Sony Bluetooth Speaker Mini,Electronics,Sony,8099.00,6710.83,576,2024-04-30 07:16:00,active
+68,Xiaomi Redmi Smartphone 256GB,Electronics,Xiaomi,52500.00,42246.75,265,2024-04-11 21:10:00,active
+69,Infinix Note Smartphone 256GB,Electronics,Infinix,64350.00,57992.22,138,2024-05-10 18:12:00,active
+70,JBL Bluetooth Speaker Mini,Electronics,JBL,12050.00,11049.85,235,2024-12-27 12:26:00,active
+71,Pwani Golden Cooking Oil 3L,Groceries,Pwani Golden,1049.00,974.21,510,2024-07-04 04:31:00,active
+72,Pwani Fresh Mango Juice 2L,Groceries,Pwani Fresh,360.00,300.92,139,2024-01-13 10:59:00,active
+73,Nzoia Sweet Brown Sugar 1kg,Groceries,Nzoia Sweet,205.00,183.86,232,2024-10-15 13:56:00,active
+74,Kericho Highlands Tea Leaves 1kg,Groceries,Kericho Highlands,519.00,477.12,422,2024-01-18 03:58:00,active
+75,Green Grams (Ndengu) 1kg,Groceries,,305.00,263.83,247,2024-08-16 20:38:00,active
+76,Baringo Gold Pure Honey 1kg,Groceries,Baringo Gold,749.00,614.63,549,2024-06-05 09:21:00,active
+77,Kilele Ground Coffee 500g,Groceries,Kilele,940.00,800.13,116,2024-09-06 20:40:00,active
+78,Tropical Kenya Mango Juice 1L,Groceries,Tropical Kenya,270.00,237.74,399,2024-07-01 04:15:00,active
+79,Kilele Dairy Fresh Milk 500ml,Groceries,Kilele Dairy,65.00,57.49,124,2024-01-14 03:46:00,active
+80,Pwani Fresh Table Salt 500g,Groceries,Pwani Fresh,35.00,32.38,161,2024-04-12 08:39:00,active
+81,Mlima Dairy Fresh Milk 500ml,Groceries,Mlima Dairy,70.00,59.12,46,2024-10-24 03:08:00,active
+82,Mlima Bora Maize Flour 2kg,Groceries,Mlima Bora,165.00,149.31,509,2024-09-22 19:00:00,active
+83,Nyeri Hills Ground Coffee 250g,Groceries,Nyeri Hills,629.00,559.62,27,2024-07-25 03:16:00,active
+84,Golden Spread Margarine 500g,Groceries,Golden Spread,185.00,160.06,263,2024-04-18 00:34:00,active
+85,Savanna Pishori Rice 5kg,Groceries,Savanna,1559.00,1427.89,0,2024-07-17 01:14:00,out_of_stock
+86,Mlima Dairy Fresh Milk 1L,Groceries,Mlima Dairy,125.00,107.25,462,2024-07-22 10:46:00,active
+87,Bananas 1 bunch,Groceries,,125.00,102.80,540,2024-08-05 13:54:00,active
+88,Eggs Tray 30 pcs,Groceries,,499.00,513.97,225,2024-03-26 11:24:00,active
+89,Tomatoes 1kg,Groceries,,130.00,108.97,497,2024-05-25 00:17:00,active
+90,Savanna Maize Flour 2kg,Groceries,Savanna,175.00,153.98,0,2024-09-03 16:25:00,discontinued
+91,Baringo Gold Pure Honey 500g,Groceries,Baringo Gold,579.00,518.32,340,2024-10-25 21:27:00,active
+92,Mlima Bora Wheat Flour 2kg,Groceries,Mlima Bora,225.00,188.12,281,2024-10-03 23:19:00,active
+93,Rosecoco Beans 1kg,Groceries,,275.00,247.91,34,2024-11-07 11:38:00,active
+94,Nutty Kenya Peanut Butter 400g,Groceries,Nutty Kenya,425.00,367.24,445,2024-09-13 05:59:00,active
+95,Pwani Fresh Mango Juice 1L,Groceries,Pwani Fresh,235.00,218.81,85,2024-03-17 00:27:00,active
+96,Mwea Fields Pishori Rice 5kg,Groceries,Mwea Fields,1409.00,1293.04,193,2024-10-31 00:06:00,active
+97,Savanna Wheat Flour 2kg,Groceries,Savanna,195.00,174.51,40,2024-08-24 08:13:00,active
+98,Savanna Spaghetti 500g,Groceries,Savanna,110.00,97.47,0,2024-09-17 12:32:00,out_of_stock
+99,Pwani Mills Spaghetti 1kg,Groceries,Pwani Mills,200.00,179.48,573,2024-11-07 11:42:00,active
+100,Pwani Golden Cooking Oil 1L,Groceries,Pwani Golden,519.00,462.48,182,2024-05-29 16:05:00,active
+101,Kilele Ground Coffee 250g,Groceries,Kilele,750.00,659.78,214,2024-11-02 03:11:00,active
+102,Kilele Pure Honey 500g,Groceries,Kilele,660.00,554.86,185,2024-06-20 15:03:00,active
+103,Savanna Cooking Oil 3L,Groceries,Savanna,949.00,871.85,600,2024-12-01 01:33:00,active
+104,Fresh Fry Cooking Oil 5L,Groceries,Fresh Fry,1380.00,1294.72,32,2024-12-17 21:06:00,active
+105,Nyeri Hills Ground Coffee 500g,Groceries,Nyeri Hills,1279.00,1166.45,77,2024-05-03 08:52:00,active
+106,Shamba Gold Maize Flour 2kg,Groceries,Shamba Gold,200.00,186.26,33,2024-04-09 13:53:00,active
+107,Pwani Golden Cooking Oil 5L,Groceries,Pwani Golden,1240.00,1132.37,110,2024-07-04 17:14:00,active
+108,Mkate Bora Sliced Bread 600g,Groceries,Mkate Bora,85.00,73.92,483,2024-04-29 08:50:00,active
+109,Nutty Kenya Peanut Butter 800g,Groceries,Nutty Kenya,600.00,618.00,23,2024-04-19 06:54:00,active
+110,Nzoia Sweet Brown Sugar 2kg,Groceries,Nzoia Sweet,325.00,294.84,31,2024-04-03 14:48:00,active
+111,Nyayo Gold Tea Leaves 1kg,Groceries,Nyayo Gold,550.00,482.02,60,2024-07-29 20:31:00,active
+112,Nyayo Gold Tea Leaves 250g,Groceries,Nyayo Gold,270.00,222.89,550,2024-03-07 05:33:00,active
+113,Kilele Dairy Fresh Milk 1L,Groceries,Kilele Dairy,110.00,102.70,21,2024-10-01 00:45:00,active
+114,Golden Spread Margarine 1kg,Groceries,Golden Spread,465.00,411.57,189,2024-07-28 19:41:00,active
+115,Pwani Fresh Table Salt 1kg,Groceries,Pwani Fresh,70.00,59.02,23,2024-08-08 13:38:00,active
+116,Kabarak Valley Brown Sugar 1kg,Groceries,Kabarak Valley,200.00,187.76,454,2024-07-19 18:54:00,active
+117,Savanna Pishori Rice 2kg,Groceries,Savanna,1119.00,960.10,118,2024-09-16 16:51:00,active
+118,Savanna Spaghetti 1kg,Groceries,Savanna,215.00,191.03,488,2024-03-02 10:57:00,active
+119,Savanna Cooking Oil 5L,Groceries,Savanna,1260.00,1131.10,0,2024-03-12 02:52:00,out_of_stock
+120,Pwani Mills Wheat Flour 2kg,Groceries,Pwani Mills,235.00,209.24,305,2024-03-13 20:38:00,active
+121,Nyayo Gold Tea Leaves 500g,Groceries,Nyayo Gold,430.00,358.06,62,2024-11-22 15:31:00,active
+122,Pwani Mills Spaghetti 500g,Groceries,Pwani Mills,140.00,127.85,169,2024-07-20 21:39:00,active
+123,Kabarak Valley Brown Sugar 2kg,Groceries,Kabarak Valley,425.00,384.46,80,2026-10-22 17:49:00,active
+124,Kericho Highlands Tea Leaves 250g,Groceries,Kericho Highlands,200.00,181.16,394,2024-05-30 15:10:00,active
+125,Mwea Fields Pishori Rice 2kg,Groceries,Mwea Fields,1189.00,1040.26,428,2024-04-05 13:13:00,active
+126,Tropical Kenya Mango Juice 2L,Groceries,Tropical Kenya,320.00,300.38,211,2024-12-05 19:53:00,active
+127,Fresh Fry Cooking Oil 1L,Groceries,Fresh Fry,669.00,548.71,19,2024-08-25 05:16:00,active
+128,Mkate Bora Sliced Bread 400g,Groceries,Mkate Bora,65.00,56.65,111,2024-02-26 02:03:00,active
+129,Kilele Pure Honey 1kg,Groceries,Kilele,779.00,674.07,197,2024-07-24 13:27:00,active
+130,Savanna Cooking Oil 1L,Groceries,Savanna,660.00,593.01,451,2024-07-17 02:35:00,active
+131,Fresh Fry Cooking Oil 3L,Groceries,Fresh Fry,1010.00,926.88,383,2024-04-10 19:36:00,active
+132,Kericho Highlands Tea Leaves 500g,Groceries,Kericho Highlands,480.00,397.06,219,2024-08-22 11:16:00,active
+133,Mlima Dairy Fresh Milk 500ml - Value Pack,Groceries,Mlima Dairy,75.00,62.24,454,2024-05-23 23:17:00,active
+134,Rosecoco Beans 1kg - Value Pack,Groceries,,235.00,219.91,118,2024-11-22 18:59:00,active
+135,Eggs Tray 30 pcs - Value Pack,Groceries,,495.00,420.40,96,2024-01-18 21:32:00,active
+136,Eggs Tray 30 pcs - Twin Pack,Groceries,,460.00,392.79,575,2024-06-22 05:15:00,active
+137,Kilele Ground Coffee 500g - Value Pack,Groceries,Kilele,1180.00,1108.61,415,2024-06-11 06:41:00,active
+138,Mlima Dairy Fresh Milk 500ml - Twin Pack,Groceries,Mlima Dairy,90.00,78.71,337,2024-08-21 14:12:00,active
+139,Kericho Highlands Tea Leaves 250g - Value Pack,Groceries,Kericho Highlands,190.00,169.86,182,2026-10-21 10:49:00,active
+140,Kilele Dairy Fresh Milk 500ml - Value Pack,Groceries,Kilele Dairy,100.00,93.56,291,2024-06-18 07:49:00,active
+141,Nyeri Hills Ground Coffee 500g - Value Pack,Groceries,Nyeri Hills,1240.00,1136.83,27,2024-09-09 11:57:00,active
+142,Mlima Bora Maize Flour 2kg - Value Pack,Groceries,Mlima Bora,255.00,236.08,575,2024-09-05 00:18:00,active
+143,Tomatoes 1kg - Value Pack,Groceries,,180.00,147.78,421,2024-01-12 13:26:00,active
+144,Green Grams (Ndengu) 1kg - Value Pack,Groceries,,245.00,217.05,204,2024-05-24 05:17:00,active
+145,Mlima Bora Wheat Flour 2kg - Value Pack,Groceries,Mlima Bora,195.00,181.47,575,2024-01-04 05:51:00,active
+146,Savanna Pishori Rice 5kg - Value Pack,Groceries,Savanna,1580.00,1358.64,259,2024-07-05 11:29:00,active
+147,Green Grams (Ndengu) 1kg - Twin Pack,Groceries,,210.00,191.58,140,2024-10-28 15:13:00,active
+148,Rosecoco Beans 1kg - Twin Pack,Groceries,,220.00,206.07,475,2024-11-05 10:26:00,active
+149,Kilele Ground Coffee 250g - Value Pack,Groceries,Kilele,620.00,529.98,0,2024-03-27 09:50:00,out_of_stock
+150,Kilele Ground Coffee 250g - Twin Pack,Groceries,Kilele,495.00,442.73,149,2024-05-12 21:24:00,active
+151,Denim Co KE Jeans Straight,Fashion,Denim Co KE,2570.00,1364.93,541,2024-10-19 09:09:00,active
+152,Nairobi Tailors Men's Shirt Regular Fit,Fashion,Nairobi Tailors,4149.00,1765.81,384,2026-10-18 10:55:00,active
+153,Kitenge House Kitenge Shirt Long Sleeve,Fashion,Kitenge House,2969.00,1819.11,371,2024-04-16 21:28:00,active
+154,Ankara Lane Kitenge Shirt Long Sleeve,Fashion,Ankara Lane,2739.00,1166.27,506,2024-12-02 23:10:00,active
+155,Urban Kenya Sneakers Running,Fashion,Urban Kenya,8099.00,5029.48,566,2026-10-16 16:57:00,active
+156,Nairobi Tailors School Uniform Set Primary,Fashion,Nairobi Tailors,1940.00,1193.88,568,2024-10-19 13:01:00,active
+157,Ankara Lane Women's Dress Midi,Fashion,Ankara Lane,3349.00,1800.09,369,2024-01-31 02:32:00,active
+158,Urban Kenya Sneakers Canvas,Fashion,Urban Kenya,2450.00,1414.63,71,2024-04-28 18:16:00,active
+159,Urban Kenya Hoodie Pullover,Fashion,Urban Kenya,1900.00,849.87,0,2024-12-15 08:18:00,discontinued
+160,Denim Co KE Jeans Skinny,Fashion,Denim Co KE,3979.00,1795.72,580,2024-03-15 15:58:00,active
+161,Nairobi Tailors School Uniform Set Secondary,Fashion,Nairobi Tailors,4259.00,2632.49,234,2024-10-03 09:51:00,active
+162,Bata School Shoes Girls,Fashion,Bata,3100.00,1489.86,0,2024-10-08 17:14:00,discontinued
+163,Kitenge House Women's Dress Midi,Fashion,Kitenge House,3300.00,1750.65,97,2024-06-26 08:55:00,active
+164,Maasai Leather Handbag Tote,Fashion,Maasai Leather,3400.00,1504.16,27,2024-10-21 08:32:00,active
+165,Stride KE Sneakers Canvas,Fashion,Stride KE,4060.00,2463.61,132,2024-08-09 03:27:00,active
+166,Maasai Leather Handbag Crossbody,Fashion,Maasai Leather,8850.00,5594.97,1,2024-04-20 20:32:00,active
+167,Bata School Shoes Boys,Fashion,Bata,2280.00,1462.16,149,2024-01-30 16:33:00,active
+168,Maasai Leather Maasai Shuka Red Check,Fashion,Maasai Leather,1179.00,619.92,421,2024-02-28 11:31:00,active
+169,Urban Kenya Hoodie Zip-up,Fashion,Urban Kenya,3779.00,2220.92,358,2024-07-20 23:27:00,active
+170,Urban Kenya Jeans Skinny,Fashion,Urban Kenya,4729.00,2122.38,77,2024-11-29 13:34:00,active
+171,Kitenge House Kitenge Shirt Short Sleeve,Fashion,Kitenge House,1249.00,753.77,89,2024-11-04 08:28:00,active
+172,Ankara Lane Handbag Tote,Fashion,Ankara Lane,5050.00,2961.32,213,2024-04-16 04:36:00,active
+173,Denim Co KE Hoodie Pullover,Fashion,Denim Co KE,2069.00,850.15,80,2024-01-27 01:47:00,active
+174,Stride KE School Shoes Boys,Fashion,Stride KE,1469.00,781.36,491,2024-04-28 10:37:00,active
+175,Urban Kenya Women's Dress Maxi,Fashion,Urban Kenya,7399.00,3671.38,362,2024-08-29 16:46:00,active
+176,Stride KE School Shoes Girls,Fashion,Stride KE,2999.00,1532.79,167,2024-10-25 18:16:00,active
+177,Urban Kenya Women's Dress Midi,Fashion,Urban Kenya,2720.00,1140.77,379,2024-03-20 10:52:00,active
+178,Denim Co KE Hoodie Zip-up,Fashion,Denim Co KE,3120.00,2019.89,292,2024-10-26 01:49:00,active
+179,Ankara Lane Handbag Crossbody,Fashion,Ankara Lane,8299.00,4280.62,46,2024-06-22 13:16:00,active
+180,Bata Sneakers Running,Fashion,Bata,8800.00,5595.92,101,2024-10-02 14:40:00,active
+181,Ankara Lane Women's Dress Maxi,Fashion,Ankara Lane,6350.00,3317.24,588,2024-09-17 10:49:00,active
+182,Nairobi Tailors Men's Shirt Slim Fit,Fashion,Nairobi Tailors,1189.00,695.45,258,2024-08-27 06:10:00,active
+183,Stride KE Sneakers Running,Fashion,Stride KE,12450.00,6752.88,415,2024-11-15 21:05:00,active
+184,Mitumba Smart Men's Shirt Regular Fit,Fashion,Mitumba Smart,3480.00,1559.74,0,2024-06-07 06:06:00,out_of_stock
+185,Mitumba Smart Men's Shirt Slim Fit,Fashion,Mitumba Smart,1239.00,743.15,235,2024-06-14 14:38:00,active
+186,Urban Kenya Jeans Straight,Fashion,Urban Kenya,2669.00,1091.62,414,2024-12-09 21:48:00,active
+187,Urban Kenya Men's Shirt Slim Fit,Fashion,Urban Kenya,1829.00,1116.24,0,2024-07-14 17:19:00,discontinued
+188,Bata Sneakers Canvas,Fashion,Bata,5300.00,3096.26,68,2024-07-24 05:37:00,active
+189,Maasai Leather Maasai Shuka Blue Check,Fashion,Maasai Leather,1889.00,951.49,309,2024-05-13 02:23:00,active
+190,Ankara Lane Kitenge Shirt Short Sleeve,Fashion,Ankara Lane,1639.00,978.65,109,2024-02-16 06:43:00,active
+191,Kitenge House Women's Dress Maxi,Fashion,Kitenge House,4450.00,1950.44,387,2024-05-17 16:47:00,active
+192,Urban Kenya Men's Shirt Regular Fit,Fashion,Urban Kenya,3770.00,2440.32,550,2024-02-21 15:36:00,active
+193,Urban Kenya Hoodie Zip-up - Value Pack,Fashion,Urban Kenya,3770.00,2073.50,275,2024-03-29 17:46:00,active
+194,Urban Kenya Women's Dress Midi - Value Pack,Fashion,Urban Kenya,4279.00,1747.12,128,2024-08-13 05:51:00,active
+195,Denim Co KE Hoodie Pullover - Value Pack,Fashion,Denim Co KE,2879.00,1805.13,433,2024-02-07 15:27:00,active
+196,Maasai Leather Maasai Shuka Blue Check - Value Pack,Fashion,Maasai Leather,1820.00,981.53,298,2024-07-19 07:11:00,active
+197,Maasai Leather Maasai Shuka Red Check - Value Pack,Fashion,Maasai Leather,1390.00,850.54,454,2024-09-09 09:33:00,active
+198,Stride KE Sneakers Canvas - Value Pack,Fashion,Stride KE,2130.00,854.34,37,2024-11-05 23:32:00,active
+199,Bata School Shoes Boys - Value Pack,Fashion,Bata,1600.00,982.40,225,2024-05-08 12:56:00,active
+200,Denim Co KE Hoodie Pullover - Twin Pack,Fashion,Denim Co KE,2480.00,1521.48,564,2024-04-26 07:53:00,active
+201,Maasai Leather Maasai Shuka Red Check - Twin Pack,Fashion,Maasai Leather,790.00,364.74,48,2024-02-20 21:17:00,active
+202,Urban Kenya Women's Dress Midi - Twin Pack,Fashion,Urban Kenya,2709.00,1393.78,401,2024-05-13 21:48:00,active
+203,Urban Kenya Hoodie Pullover - Value Pack,Fashion,Urban Kenya,2590.00,1504.53,280,2024-09-10 17:16:00,active
+204,Kitenge House Women's Dress Maxi - Value Pack,Fashion,Kitenge House,7099.00,3567.96,593,2024-07-01 13:50:00,active
+205,Ankara Lane Women's Dress Midi - Value Pack,Fashion,Ankara Lane,2160.00,965.52,75,2024-07-16 02:19:00,active
+206,Bata School Shoes Girls - Value Pack,Fashion,Bata,2600.00,1657.50,147,2024-08-22 08:40:00,active
+207,Urban Kenya Men's Shirt Regular Fit - Value Pack,Fashion,Urban Kenya,4230.00,1817.63,53,2024-02-12 18:20:00,active
+208,Ankara Lane Kitenge Shirt Short Sleeve - Value Pack,Fashion,Ankara Lane,2140.00,1162.45,278,2024-04-25 09:27:00,active
+209,Mitumba Smart Men's Shirt Slim Fit - Value Pack,Fashion,Mitumba Smart,1779.00,1130.91,428,2024-02-14 12:57:00,active
+210,Maasai Leather Maasai Shuka Blue Check - Twin Pack,Fashion,Maasai Leather,1809.00,772.99,75,2024-06-17 07:13:00,active
+211,Samsung Refrigerator Double Door,Home Appliances,Samsung,81299.00,64218.08,204,2024-08-23 15:12:00,active
+212,Philips Iron Box Dry,Home Appliances,Philips,2630.00,2017.47,547,2024-05-01 00:35:00,active
+213,Mika Electric Kettle 2L,Home Appliances,Mika,3849.00,2834.02,542,2024-08-04 00:16:00,active
+214,Ramtons Electric Kettle 1.7L,Home Appliances,Ramtons,2410.00,1959.57,547,2024-05-06 13:40:00,active
+215,Hisense Washing Machine 9kg,Home Appliances,Hisense,91449.00,73918.23,509,2024-08-14 14:43:00,active
+216,Sayona Iron Box Dry,Home Appliances,Sayona,2129.00,1764.73,499,2024-07-22 03:26:00,active
+217,Hisense Washing Machine 7kg,Home Appliances,Hisense,44600.00,37312.36,527,2024-06-20 01:19:00,active
+218,Ramtons Water Dispenser Hot & Normal,Home Appliances,Ramtons,17500.00,14441.00,171,2024-08-31 09:31:00,active
+219,Hisense Microwave Oven 25L,Home Appliances,Hisense,20199.00,17558.99,496,2024-11-29 02:23:00,active
+220,"Ramtons Standing Fan 16""",Home Appliances,Ramtons,4130.00,3136.74,544,2024-07-21 12:38:00,active
+221,Mika Electric Kettle 1.7L,Home Appliances,Mika,2619.00,2059.06,467,2024-10-06 20:06:00,active
+222,Hisense Microwave Oven 20L,Home Appliances,Hisense,9449.00,8008.03,94,2024-02-24 03:51:00,active
+223,Von Water Dispenser Hot & Normal,Home Appliances,Von,17000.00,13375.60,420,2024-08-28 04:56:00,active
+224,Hisense Refrigerator Single Door,Home Appliances,Hisense,38649.00,31715.37,461,2024-03-03 20:48:00,active
+225,Ramtons Blender 1.5L,Home Appliances,Ramtons,6750.00,5007.15,89,2024-01-02 10:11:00,active
+226,Samsung Washing Machine 7kg,Home Appliances,Samsung,38499.00,28758.75,79,2024-02-05 14:17:00,active
+227,Philips Blender 1.5L,Home Appliances,Philips,4500.00,3801.60,455,2024-04-02 04:11:00,active
+228,Ramtons Iron Box Dry,Home Appliances,Ramtons,3479.00,2594.99,116,2024-04-06 02:04:00,active
+229,Mika Blender 2L,Home Appliances,Mika,8600.00,7107.90,434,2024-06-18 09:35:00,active
+230,LG Refrigerator Double Door,Home Appliances,LG,90650.00,71432.20,170,2024-09-15 11:54:00,active
+231,Ramtons Refrigerator Double Door,Home Appliances,Ramtons,98150.00,78215.74,554,2024-08-10 01:13:00,active
+232,Samsung Microwave Oven 25L,Home Appliances,Samsung,18499.00,15631.66,350,2024-08-13 19:40:00,active
+233,Von Gas Cooker 2 Burner,Home Appliances,Von,22549.00,16724.59,217,2024-04-18 08:58:00,active
+234,Philips Electric Kettle 2L,Home Appliances,Philips,3170.00,2555.34,134,2024-01-14 20:10:00,active
+235,Von Water Dispenser Hot & Cold,Home Appliances,Von,11799.00,9265.75,230,2024-12-04 16:41:00,active
+236,Ramtons Gas Cooker 4 Burner,Home Appliances,Ramtons,63750.00,50572.88,466,2024-12-27 08:41:00,active
+237,"Ramtons Standing Fan 18""",Home Appliances,Ramtons,6149.00,4984.99,50,2024-12-20 02:50:00,active
+238,Ramtons Gas Cooker 2 Burner,Home Appliances,Ramtons,26199.00,19269.36,597,2024-01-19 12:05:00,active
+239,Sayona Iron Box Steam,Home Appliances,Sayona,5799.00,4344.03,349,2024-03-29 02:34:00,active
+240,Ramtons Microwave Oven 25L,Home Appliances,Ramtons,18399.00,15764.26,4,2024-04-12 07:56:00,active
+241,Mika Gas Cooker 4 Burner,Home Appliances,Mika,61350.00,49564.67,572,2024-04-07 00:12:00,active
+242,Samsung Microwave Oven 20L,Home Appliances,Samsung,9099.00,7173.65,305,2024-08-24 01:16:00,active
+243,Ramtons Iron Box Steam,Home Appliances,Ramtons,4449.00,3505.37,444,2024-12-29 14:54:00,active
+244,Mika Blender 1.5L,Home Appliances,Mika,5099.00,4054.21,28,2024-03-09 13:28:00,active
+245,Ramtons Microwave Oven 20L,Home Appliances,Ramtons,8750.00,6762.00,392,2024-09-01 15:05:00,active
+246,Ramtons Blender 2L,Home Appliances,Ramtons,10550.00,7723.66,199,2024-01-08 07:43:00,active
+247,"Mika Standing Fan 16""",Home Appliances,Mika,4390.00,3588.83,485,2024-10-24 06:32:00,active
+248,Philips Electric Kettle 1.7L,Home Appliances,Philips,2480.00,2095.35,0,2024-02-18 19:37:00,discontinued
+249,Mika Gas Cooker 2 Burner,Home Appliances,Mika,19700.00,15222.19,174,2024-08-08 11:52:00,active
+250,Ramtons Refrigerator Single Door,Home Appliances,Ramtons,70600.00,55456.30,239,2024-08-28 20:23:00,active
+251,"Mika Standing Fan 18""",Home Appliances,Mika,6950.00,5446.72,387,2024-10-29 20:51:00,active
+252,Mika Water Dispenser Hot & Normal,Home Appliances,Mika,16850.00,12772.30,410,2024-04-22 12:55:00,active
+253,Ramtons Electric Kettle 2L,Home Appliances,Ramtons,3860.00,3040.91,484,2024-01-23 18:43:00,active
+254,Philips Blender 2L,Home Appliances,Philips,10949.00,8693.51,364,2024-04-08 08:07:00,active
+255,Ramtons Water Dispenser Hot & Cold,Home Appliances,Ramtons,10749.00,7841.40,501,2024-12-05 07:37:00,active
+256,Pure Glow Petroleum Jelly 100ml,Beauty,Pure Glow,180.00,118.42,1,2024-12-15 23:14:00,active
+257,Bella Naturals Body Lotion 200ml,Beauty,Bella Naturals,280.00,187.96,291,2024-07-16 14:04:00,active
+258,Bella Naturals Shea Butter 500g,Beauty,Bella Naturals,1339.00,860.44,129,2024-12-25 05:43:00,active
+259,Pure Glow Petroleum Jelly 250ml,Beauty,Pure Glow,445.00,285.65,276,2024-12-27 10:41:00,active
+260,Nairobi Musk Beard Oil 50ml,Beauty,Nairobi Musk,1580.00,1093.04,46,2024-03-19 08:07:00,active
+261,Nivea Face Wash 250ml,Beauty,Nivea,1540.00,870.87,233,2024-01-09 05:13:00,active
+262,Nairobi Musk Beard Oil 30ml,Beauty,Nairobi Musk,969.00,487.12,0,2024-04-07 02:08:00,discontinued
+263,Shea Kenya Petroleum Jelly 250ml,Beauty,Shea Kenya,465.00,212.27,292,2024-12-09 12:47:00,active
+264,Darling Lane Hair Braids Short,Beauty,Darling Lane,870.00,421.43,261,2024-02-15 10:58:00,active
+265,Nairobi Musk Perfume 50ml,Beauty,Nairobi Musk,1640.00,1128.16,41,2024-01-23 15:32:00,active
+266,Nairobi Musk Perfume 100ml,Beauty,Nairobi Musk,6500.00,3692.00,2,2024-12-19 23:11:00,active
+267,Shea Kenya Shea Butter 250g,Beauty,Shea Kenya,1090.00,559.93,165,2024-07-11 21:21:00,active
+268,Darling Lane Hair Braids Long,Beauty,Darling Lane,1499.00,743.65,106,2024-04-07 20:11:00,active
+269,Shea Kenya Body Lotion 400ml,Beauty,Shea Kenya,1069.00,539.42,569,2024-02-16 15:14:00,active
+270,Nivea Body Lotion 400ml,Beauty,Nivea,1020.00,679.12,261,2024-08-08 19:53:00,active
+271,Afro Glow Lipstick Gloss,Beauty,Afro Glow,1380.00,917.01,456,2024-07-21 03:25:00,active
+272,Nivea Face Wash 150ml,Beauty,Nivea,689.00,463.97,0,2024-02-09 01:01:00,out_of_stock
+273,Bella Naturals Hair Relaxer Super,Beauty,Bella Naturals,1169.00,814.09,296,2026-10-30 15:43:00,active
+274,Bella Naturals Lipstick Gloss,Beauty,Bella Naturals,1769.00,799.76,369,2024-09-30 21:41:00,active
+275,Afro Glow Lipstick Matte,Beauty,Afro Glow,980.00,465.79,248,2024-03-26 06:18:00,active
+276,Afro Glow Hair Braids Long,Beauty,Afro Glow,1240.00,796.58,31,2024-07-22 17:54:00,active
+277,Bella Naturals Face Wash 250ml,Beauty,Bella Naturals,1479.00,1004.54,189,2024-02-21 19:40:00,active
+278,Savanna Scents Perfume 50ml,Beauty,Savanna Scents,4139.00,2647.72,0,2024-03-09 04:56:00,out_of_stock
+279,Afro Glow Hair Relaxer Super,Beauty,Afro Glow,809.00,379.50,419,2024-08-30 17:54:00,active
+280,Bella Naturals Lipstick Matte,Beauty,Bella Naturals,640.00,377.41,289,2024-12-09 03:13:00,active
+281,Bella Naturals Shea Butter 250g,Beauty,Bella Naturals,679.00,377.73,347,2024-12-07 22:42:00,active
+282,Afro Glow Hair Relaxer Regular,Beauty,Afro Glow,529.00,362.89,263,2024-10-16 21:35:00,active
+283,Savanna Scents Perfume 100ml,Beauty,Savanna Scents,5800.00,3244.52,380,2024-12-14 02:36:00,active
+284,Shea Kenya Petroleum Jelly 100ml,Beauty,Shea Kenya,260.00,143.05,195,2024-12-01 04:08:00,active
+285,Shea Kenya Body Lotion 200ml,Beauty,Shea Kenya,579.00,321.06,549,2024-11-10 02:21:00,active
+286,Nivea Body Lotion 200ml,Beauty,Nivea,660.00,442.40,463,2024-12-02 06:50:00,active
+287,Bella Naturals Hair Relaxer Regular,Beauty,Bella Naturals,660.00,334.42,340,2024-11-16 10:42:00,active
+288,Afro Glow Hair Braids Short,Beauty,Afro Glow,1019.00,587.66,198,2024-12-24 02:20:00,active
+289,Shea Kenya Shea Butter 500g,Beauty,Shea Kenya,1370.00,706.78,55,2024-03-04 19:40:00,active
+290,Bella Naturals Face Wash 150ml,Beauty,Bella Naturals,719.00,351.45,0,2024-08-29 16:12:00,out_of_stock
+291,Bella Naturals Body Lotion 400ml,Beauty,Bella Naturals,1080.00,584.39,100,2024-05-22 21:10:00,active
+292,Bella Naturals Shea Butter 500g - Value Pack,Beauty,Bella Naturals,1149.00,576.57,379,2024-02-05 12:02:00,active
+293,Bella Naturals Face Wash 150ml - Value Pack,Beauty,Bella Naturals,390.00,242.00,312,2024-12-02 07:36:00,active
+294,Afro Glow Lipstick Matte - Value Pack,Beauty,Afro Glow,700.00,418.88,135,2024-11-04 23:48:00,active
+295,Nairobi Musk Beard Oil 30ml - Value Pack,Beauty,Nairobi Musk,1340.00,860.95,196,2024-07-11 22:06:00,active
+296,Nairobi Musk Beard Oil 30ml - Twin Pack,Beauty,Nairobi Musk,810.00,405.32,499,2024-07-27 22:31:00,active
+297,Shea Kenya Petroleum Jelly 100ml - Value Pack,Beauty,Shea Kenya,160.00,86.88,521,2024-11-21 20:05:00,active
+298,Darling Lane Hair Braids Long - Value Pack,Beauty,Darling Lane,1439.00,683.81,131,2024-04-05 10:54:00,active
+299,Afro Glow Hair Braids Long - Value Pack,Beauty,Afro Glow,1590.00,886.43,72,2024-07-21 15:33:00,active
+300,Shea Kenya Petroleum Jelly 100ml - Twin Pack,Beauty,Shea Kenya,260.00,168.22,286,2024-10-01 10:23:00,active
